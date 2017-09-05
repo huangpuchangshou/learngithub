@@ -1,2 +1,2 @@
 # learngithub
-Just learn git hub
+This is my learn Github Enterprise lession 1. Just for learn
